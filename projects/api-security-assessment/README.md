@@ -1,6 +1,6 @@
 # API Security Assessment
 
-> Professional API security assessment conducted in a controlled laboratory environment.
+Professional API security assessment conducted in a controlled laboratory environment.
 
 ## Status
 
@@ -49,3 +49,4 @@ _To be completed during the assessment._
 ## Report
 
 _Final penetration testing report will be added here._
+
